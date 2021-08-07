@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+.center-container {
+  max-width: 600px;
+  margin: auto;
+}
